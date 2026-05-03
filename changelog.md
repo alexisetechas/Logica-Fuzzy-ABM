@@ -11,3 +11,11 @@ Semana III - 03/04
 * Refinação da fonte de Dados, Tratamento e Modelagem de investimento / Fuzzy
 Definição da logo e nome do robô
 Início da documentação do projeto
+
+Semana IV - 11/04
+
+* Definição da modelagem de investimento definida
+
+Semana V - 18/04
+
+* Relatório
